@@ -10,7 +10,7 @@ Before running the script check the following steps:
 Install-Module AZ
 
  
-2 - Connect to your azure account where the Logic App is running:
+2 - Connect to your azure account:
 Connect-AzAccount
 
  
