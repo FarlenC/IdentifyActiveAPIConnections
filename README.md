@@ -8,10 +8,12 @@ Before running the script check the following steps:
 
 1 - First you need to install the AZ module: (if already installed, skip this step)
 Install-Module AZ
- 
+
+ 
 2 - Connect to your azure account where the Logic App is running:
 Connect-AzAccount
- 
+
+ 
 3 - if you need to change the subscription run this command to see the subscriptions you have access to:
 Get-AzSubscription
 
